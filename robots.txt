@@ -1,4 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /slike/
+
 
 sitemap: https://github.com/SlavicaDjurdjevic/Projekat-IJA1/blob/main/sitemap.xml
